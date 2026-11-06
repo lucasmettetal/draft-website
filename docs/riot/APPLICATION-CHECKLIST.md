@@ -9,7 +9,7 @@ Status as of 2026-11-07. ✅ done · ⚠️ partial · ❌ missing.
 | `riot.txt` verification | ❌ | Only when Riot provides the exact token: create `riot.txt` at the site root with that content, deploy, check `https://<domain>/riot.txt`. **Do not create it before.** |
 | Product description | ✅ | [PRODUCT-OVERVIEW.md](PRODUCT-OVERVIEW.md); site sections Features / How it works |
 | API usage description | ✅ | [API-USAGE.md](API-USAGE.md); site section "Riot API" |
-| Presentation video | ⚠️ | 4-min tutorial with FR voice and FR/EN subtitles, on the site (`#demo`). An English voice-over would help reviewers. |
+| Presentation video | ✅ | Silent tutorial with French on-screen descriptions and English subtitles, on the site (`#demo`), click to play. |
 | Screenshots | ✅ | `assets/` — DRAFT 2.16 interface, simulated draft, fictitious data |
 | Privacy policy | ✅ | `/confidentialite.html`, `/en/privacy.html` (technical description; no legal/GDPR review done) |
 | Terms of use | ✅ | `/conditions.html`, `/en/terms.html` |

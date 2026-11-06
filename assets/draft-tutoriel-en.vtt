@@ -1,160 +1,109 @@
 WEBVTT
 
-00:00:00.500 --> 00:00:05.417
-This is DRAFT, your strategic assistant for League of Legends.
+00:00:00.500 --> 00:00:02.850 line:6% align:center
+DRAFT — Your strategic assistant for League of Legends.
 
-00:00:05.417 --> 00:00:10.572
-This video presents the app and shows step by step how to use it.
+00:00:02.850 --> 00:00:05.200 line:6% align:center
+Presentation and tutorial · version 2.16 beta.
 
-00:00:11.872 --> 00:00:17.964
-During champion select, DRAFT helps you choose, among the champions you play,
+00:00:06.500 --> 00:00:12.100 line:6% align:center
+You see the enemy composition. Which champion from your pool should you pick?
 
-00:00:17.964 --> 00:00:21.525
-the one that best fits the enemy composition.
+00:00:12.100 --> 00:00:17.700 line:6% align:center
+DRAFT tells you and explains why. It never acts in the client: you always pick yourself.
 
-00:00:21.525 --> 00:00:25.244
-It explains its choice with a simple game plan.
+00:00:19.000 --> 00:00:24.900 line:6% align:center
+1. Launch DRAFT-Portable.exe   2. A DRAFT icon appears next to the clock
 
-00:00:25.244 --> 00:00:31.336
-Your data stays on your PC, and it never acts in the client: you always pick,
+00:00:24.900 --> 00:00:30.800 line:6% align:center
+3. Right-click it: window, panels, settings. No key or account needed to start.
 
-00:00:31.336 --> 00:00:33.314
-ban and lock in yourself.
+00:00:32.100 --> 00:00:37.322 line:6% align:center
+Open settings from the DRAFT icon, then "My profiles".
 
-00:00:34.614 --> 00:00:36.698
-Step one: launch DRAFT.
+00:00:37.322 --> 00:00:42.290 line:6% align:center
+Choose a role and add your champions with the search.
 
-00:00:36.698 --> 00:00:41.319
-No window opens; an icon appears next to the clock.
-
-00:00:41.319 --> 00:00:49.111
-Right-clicking this icon gives access to the main window, the panels and the settings.
-
-00:00:49.111 --> 00:00:52.916
-No key and no account are needed to start.
-
-00:00:54.216 --> 00:00:56.673
-Step two: open the settings.
-
-00:00:56.673 --> 00:01:02.902
-In My profiles, choose a role, then add your champions with the search.
-
-00:01:02.902 --> 00:01:07.289
+00:00:42.290 --> 00:00:47.067 line:6% align:center
 Each role keeps its own pool, saved automatically.
 
-00:01:07.289 --> 00:01:12.992
-You can also export your profiles to a file and import them back.
-
-00:01:14.292 --> 00:01:16.778
-Step three: choose your role.
-
-00:01:16.778 --> 00:01:22.522
+00:00:48.367 --> 00:00:54.085 line:6% align:center
 The five icons at the top of each window switch roles in one click.
 
-00:01:22.522 --> 00:01:25.780
-The active role is shown next to them.
+00:00:54.085 --> 00:00:57.833 line:6% align:center
+The active role is shown right next to them.
 
-00:01:27.080 --> 00:01:31.902
-Step four: enter the enemy champions as they are picked.
+00:00:59.133 --> 00:01:03.707 line:6% align:center
+Type an enemy champion's name, then press Enter.
 
-00:01:31.902 --> 00:01:34.486
-Type a name, then press Enter.
+00:01:03.707 --> 00:01:08.535 line:6% align:center
+DRAFT guesses its role: correct it in one click if needed.
 
-00:01:34.486 --> 00:01:40.686
-DRAFT guesses each opponent's role, and you can correct it in one click.
+00:01:08.535 --> 00:01:13.300 line:6% align:center
+Your pool's ranking updates with each addition.
 
-00:01:40.686 --> 00:01:44.647
-The recommendation updates with each addition.
+00:01:14.600 --> 00:01:20.612 line:6% align:center
+Center: the best option from your pool, an alternative and the reason.
 
-00:01:45.947 --> 00:01:48.574
-Step five: read the recommendation.
+00:01:20.612 --> 00:01:25.344 line:6% align:center
+Bottom: all your champions, ranked for this draft.
 
-00:01:48.574 --> 00:01:52.551
-In the center, the suggested champion from your pool,
+00:01:25.344 --> 00:01:31.100 line:6% align:center
+Right: how to win, threats, targets and useful bans.
 
-00:01:52.551 --> 00:01:56.303
-with an alternative and the reason for the choice.
+00:01:32.400 --> 00:01:36.856 line:6% align:center
+Compact panels sit next to the client.
 
-00:01:56.303 --> 00:02:00.281
-At the bottom, every champion in your pool is ranked.
+00:01:36.856 --> 00:01:42.267 line:6% align:center
+They keep the essentials: enemies, ranking and game plan.
 
-00:02:00.281 --> 00:02:05.834
-On the right, the game plan: how to win, threats, targets and useful bans.
+00:01:43.567 --> 00:01:48.207 line:6% align:center
+Analysis: the criteria that separate your champions.
 
-00:02:07.134 --> 00:02:12.945
-During champion select, you can use compact panels placed next to the client.
+00:01:48.207 --> 00:01:52.784 line:6% align:center
+Compare: two of your champions against this draft.
 
-00:02:12.945 --> 00:02:19.436
-They show the essentials: the recommendation, the enemy composition and the game plan.
+00:01:52.784 --> 00:01:57.233 line:6% align:center
+Tips: explanations matched to your level.
 
-00:02:20.736 --> 00:02:23.744
-To go further, several tabs are available.
+00:01:57.233 --> 00:02:02.700 line:6% align:center
+Duel: what to pick against a specific mid laner, without touching your draft.
 
-00:02:23.744 --> 00:02:31.478
-Analysis details the criteria behind the choice and compares two of your champions against this composition.
+00:02:04.000 --> 00:02:09.822 line:6% align:center
+The Riot API powers optional features, always started by you.
 
-00:02:31.478 --> 00:02:34.056
-Tips gives educational explanations.
+00:02:09.822 --> 00:02:15.963 line:6% align:center
+To import your history: your Riot ID, your region, how many games.
 
-00:02:34.056 --> 00:02:39.928
-Duel shows what to pick against a specific mid laner, without touching your draft.
+00:02:15.963 --> 00:02:20.633 line:6% align:center
+Your key is masked and never saved.
 
-00:02:41.228 --> 00:02:47.619
-DRAFT uses the Riot Games API for optional features, always started by you.
+00:02:21.933 --> 00:02:27.200 line:6% align:center
+History import, call by call: Riot ID → account-v1 → match-v5 → your PC.
 
-00:02:47.619 --> 00:02:51.964
-The first one: importing your ranked match history.
+00:02:27.200 --> 00:02:32.467 line:6% align:center
+Kept: date, patch, champion, position, result, K/D/A, opponents.
 
-00:02:51.964 --> 00:02:58.525
-You enter your Riot ID, your region and how many games to read, then confirm.
+00:02:32.467 --> 00:02:37.733 line:6% align:center
+Key in the X-Riot-Token header, never saved. On a 429 response, DRAFT waits for Retry-After.
 
-00:02:59.825 --> 00:03:04.365
-Concretely, DRAFT calls account-v1 to find your account,
+00:02:39.033 --> 00:02:43.279 line:6% align:center
+The Games tab summarizes your imported history.
 
-00:03:04.365 --> 00:03:10.202
-then match-v5 to list your ranked solo/duo games and read their details.
+00:02:43.279 --> 00:02:48.601 line:6% align:center
+Your most played champions, without ever changing the ranking.
 
-00:03:10.202 --> 00:03:17.823
-For each game, DRAFT keeps on your PC the date, patch, duration, your champion, your position,
+00:02:48.601 --> 00:02:52.467 line:6% align:center
+The data in this video is fictitious.
 
-00:03:17.823 --> 00:03:21.634
-the result, your K/D/A and the enemy champions.
+00:02:53.767 --> 00:02:59.567 line:6% align:center
+No automation: no picking, no banning. What you see in champion select, plus per-champion stats.
 
-00:03:21.634 --> 00:03:23.742
-No other player is stored.
+00:02:59.567 --> 00:03:05.367 line:6% align:center
+No data sent to a server. Client reading is optional and off by default. DRAFT isn't endorsed by Riot Games.
 
-00:03:23.742 --> 00:03:29.985
-The key is sent in the request header, never in the URL, and it is not saved.
+00:03:06.667 --> 00:03:09.317 line:6% align:center
+DRAFT — Your strategic assistant for League of Legends.
 
-00:03:29.985 --> 00:03:37.038
-Rate limits are respected: if the API answers 429, DRAFT waits for the indicated delay.
-
-00:03:38.338 --> 00:03:45.490
-Once your history is imported, the Games tab summarizes your most played champions and your results.
-
-00:03:45.490 --> 00:03:52.283
-DRAFT also points out your most familiar champion, without ever changing the strategic ranking.
-
-00:03:52.283 --> 00:03:54.715
-The data shown here is fictitious.
-
-00:03:56.015 --> 00:03:58.501
-DRAFT follows strict rules.
-
-00:03:58.501 --> 00:04:02.645
-It automates nothing: no picking, no banning.
-
-00:04:02.645 --> 00:04:08.539
-It only uses information already visible during champion select,
-
-00:04:08.539 --> 00:04:11.946
-plus general per-champion statistics.
-
-00:04:11.946 --> 00:04:14.525
-No data is sent to a server.
-
-00:04:14.525 --> 00:04:18.761
-Client reading is optional and off by default.
-
-00:04:20.061 --> 00:04:24.185
-Thank you for watching this presentation of DRAFT.
+00:03:09.317 --> 00:03:11.967 line:6% align:center
+Private beta · simulated draft and fictitious data in this video.

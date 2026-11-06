@@ -28,7 +28,7 @@ Choisir un domaine que vous contrôlez et l'associer à Vercel. Si Riot vous rem
 
 ## Vidéo
 
-`assets/draft-tutoriel.mp4` (environ 16 Mo, lecture uniquement au clic) et ses sous-titres `assets/draft-tutoriel-fr.vtt` / `-en.vtt`.
+`assets/draft-tutoriel.mp4` : vidéo muette, descriptions à l'écran en français, lecture uniquement au clic. Sous-titres anglais : `assets/draft-tutoriel-en.vtt`.
 
 ## À compléter avant publication générale
 
