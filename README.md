@@ -22,9 +22,17 @@ Le déploiement est indépendant de l'application Windows.
 
 Choisir un domaine que vous contrôlez et l'associer à Vercel. Si Riot vous remet un fichier de vérification `riot.txt`, créer ce fichier **à la racine** avec le contenu **exactement fourni**, déployer, puis vérifier que `https://votre-domaine/riot.txt` renvoie le bon contenu. Ne pas inventer le jeton.
 
+## Dossier Riot
+
+`docs/riot/` contient le dossier de candidature à l'accès Production de l'API Riot Games (en anglais) : description du produit, inventaire des appels, questions de conformité, liste des éléments. Ce dossier n'est pas publié sur le site (`.vercelignore`).
+
+## Vidéo
+
+`assets/draft-tutoriel.mp4` (environ 16 Mo, lecture uniquement au clic) et ses sous-titres `assets/draft-tutoriel-fr.vtt` / `-en.vtt`.
+
 ## À compléter avant publication générale
 
-- [ ] Identité et coordonnées de l'éditeur, mentions légales françaises selon le statut.
+- [ ] Identité de l'éditeur et mentions légales selon le statut (non publiées : à décider, ne rien inventer).
 - [ ] Adresse de contact dédiée aux demandes concernant les données.
 - [ ] Validation des textes de confidentialité et conditions contre la version réellement diffusée.
 - [x] Vraies captures de DRAFT 2.16, avec une draft simulée et des données fictives (ssets/).
