@@ -1,6 +1,6 @@
 # DRAFT — Site de présentation
 
-Site vitrine **statique**, indépendant du dépôt de l'application Windows [DRAFT](https://github.com/lucasmettetal/Draft).
+Site vitrine **statique**, en français (/) et en anglais (/en/), indépendant du dépôt de l'application Windows [DRAFT](https://github.com/lucasmettetal/Draft).
 
 ## Démarrage local
 
@@ -27,7 +27,9 @@ Choisir un domaine que vous contrôlez et l'associer à Vercel. Si Riot vous rem
 - [ ] Identité et coordonnées de l'éditeur, mentions légales françaises selon le statut.
 - [ ] Adresse de contact dédiée aux demandes concernant les données.
 - [ ] Validation des textes de confidentialité et conditions contre la version réellement diffusée.
-- [ ] Remplacer la maquette illustrative par de vraies captures anonymisées de DRAFT.
+- [x] Vraies captures de DRAFT 2.16, avec une draft simulée et des données fictives (ssets/).
+- [ ] Adresse de contact dédiée (aujourd'hui : GitHub Issues).
+- [ ] Serveur de statistiques avec la clé de production, tel que décrit dans la section API du site, ou retirer ce paragraphe.
 - [ ] Vérifier avec Riot les usages de la LCU, les analyses de sélection et les conditions de distribution.
 - [ ] Confirmer la disponibilité du nom et du domaine DRAFT avant toute diffusion de grande ampleur.
 
